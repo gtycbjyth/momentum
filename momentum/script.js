@@ -3,6 +3,7 @@ const time = document.querySelector('.time'),
   greeting = document.querySelector('.greeting'),
   name = document.querySelector('.name'),
   focus = document.querySelector('.focus');
+alert('Привет, сокурсник. Третью неделю мучаюсь зубной болью, причем первые две были просто АД. Если возможно проверь работу в последний день Cross-Check 01.11.2020.СПАСИБО ЗА ПОНИМАНИЕ!');
 
 // Options
 const showAmPm = true;
